@@ -1,4 +1,4 @@
-- 👋 Estudante de design, programação e um pouco de hacking.
+- 👋 Estudante de design e tecnologia.
 
 <!---
 Luhrodrigues45/Luhrodrigues45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
