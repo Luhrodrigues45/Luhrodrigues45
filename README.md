@@ -1,14 +1,14 @@
 <h1 align="center">Oi, seja bem-vindo(a). Me chamo <a href="https://www.instagram.com/luhrodrigues45/"><i>Luana Rodrigues</i></a><a align="rigth"  href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FLuhrodrigues45" target="_blank">
-  <img width="7%" align="center" valign="middle" src="https://img.shields.io/github/followers/Luhrodrigues45.svg?style=social&label=Follow&maxAge=2592000" target="_blank" />
+  <img width="8%" align="center" valign="middle" src="https://img.shields.io/github/followers/Luhrodrigues45.svg?style=social&label=Follow&maxAge=2592000" target="_blank" />
   </a></h1>
 
 <p align="center">Atualmente estou estudando front-end com react da empresa <a href="https://zeroaoum.herospark.co/"><i>Zero ao um</i></a>.
  
 <div align="center">
    
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luhrodrigues45&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luhrodrigues45&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
    
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luhrodrigues45&layout=compact&langs_count=7&theme=white"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luhrodrigues45&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
  
 <div align="center" style="display: inline_block"><br>
