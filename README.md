@@ -2,8 +2,6 @@
 
 <div align="center">
  
- <!– ---------------------------- Link do meu perfil ->
- 
   <a href="https://github.com/Luhrodrigues45">
    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luhrodrigues45&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
