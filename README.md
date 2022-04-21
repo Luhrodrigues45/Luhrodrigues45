@@ -1,8 +1,6 @@
  ## Olá!
 
 <div align="center">
- 
-  <a href="https://linktr.ee/Luhrodrigues45">
    
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luhrodrigues45&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
    
