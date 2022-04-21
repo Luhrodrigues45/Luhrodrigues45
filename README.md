@@ -4,7 +4,7 @@
  
   <p align="center">Aproveita e já me segue logo no GitHub😉️</h2>
   <a align="rigth"  href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FLuhrodrigues45" target="_blank">
-  <img width="10%" align="center" valign="middle" src="https://img.shields.io/github/followers/{Luhrodrigues45}.svg?style=social&label=Follow&maxAge=2592000" target="_blank" />
+  <img width="7%" align="center" valign="middle" src="https://img.shields.io/github/followers/Luhrodrigues45.svg?style=social&label=Follow&maxAge=2592000" target="_blank" />
   </a><br>
  
 <div align="center">
