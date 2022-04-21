@@ -1,9 +1,8 @@
 <!-- ------------------ Cabeçalho, gif e ícone para me seguir -->
 <div align="center">
 <img src="https://images.squarespace-cdn.com/content/v1/5feb6d8bfc15e836c6f54d8d/8eda2305-f243-4cfe-9cf2-ec5263e53653/frontend.gif"/></div>
-<h1 align="center">Oi, seja bem-vindo(a). Me chamo <a href="https://www.instagram.com/luhrodrigues45/"><i>Luana Rodrigues</i></a><a align="rigth"  href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FLuhrodrigues45" target="_blank">
-  <img width="8%" align="center" valign="middle" src="https://img.shields.io/github/followers/Luhrodrigues45.svg?style=social&label=Follow&maxAge=2592000" target="_blank" />
-  </a></h1>
+<h1 align="center">Oi, seja bem-vindo(a). Me chamo <a href="https://www.instagram.com/luhrodrigues45/"><i>Luana Rodrigues</i></a>
+</h1>
   
 <!-- ------------------ Falo sobre o quê, e de qual empresa é o curso que estou estudando no momento -->
 
