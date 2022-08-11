@@ -7,8 +7,8 @@
   
 <!-- ------------------ Falo sobre o quê, e de qual empresa é o curso que estou estudando no momento -->
 
-   <p align="center">Atualmente estou estudando front-end da empresa <a href="https://zeroaoum.herospark.co/"><i>Zero ao um</i></a>.
-   <!--<p align="center">E JavaScript puro. da empresa <a href="https://cursos.dankicode.com/loja"><i>Danki Code</i></a>-->
+   <!--<p align="center">Atualmente estou estudando front-end da empresa <a href="https://zeroaoum.herospark.co/"><i>Zero ao um</i></a>.
+   <p align="center">E JavaScript puro. da empresa <a href="https://cursos.dankicode.com/loja"><i>Danki Code</i></a>-->
  
 
 <!-- ------------------ Estatísticas -->
