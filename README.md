@@ -1,6 +1,7 @@
 <!-- ------------------ Cabeçalho, gif e ícone para me seguir -->
 <div align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5feb6d8bfc15e836c6f54d8d/8eda2305-f243-4cfe-9cf2-ec5263e53653/frontend.gif"/></div>
+  <!-- <img src="https://images.squarespace-cdn.com/content/v1/5feb6d8bfc15e836c6f54d8d/8eda2305-f243-4cfe-9cf2-ec5263e53653/frontend.gif"/></div> -->
+  <img width="35%" src="https://miro.medium.com/max/1400/1*beEP_5lN03hjXa-7qu6bBw.gif"/></div>
   <h1 align="center"><!--<img width="4%" src="https://raw.githubusercontent.com/Jaydo-Coder/Jaydo-Coder/main/wave.gif">-->Oi, seja bem-vindo(a). Me chamo <a href="https://www.instagram.com/luhrodrigues45/"><i>Luana Rodrigues</i></a>
   <a align="rigth"  href="https://github.com/Luhrodrigues45" target="_blank"><img width="8%" align="center" valign="middle"       src="https://img.shields.io/github/followers/Luhrodrigues45.svg?style=social&label=Follow&maxAge=2592000" target="_blank" /></a>
   </h1>
