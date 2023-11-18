@@ -30,7 +30,6 @@
   ##
 <!-- ------------------ Minhas redes sociais -->
   
-  <h3 align="left">Redes sociais:</h3>
+  <h3 align="left">Rede social:</h3>
     <a href="https://www.instagram.com/luhrodrigues45/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://discord.gg/njbcsbBVXC" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
