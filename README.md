@@ -1,6 +1,6 @@
 <!-- ================== Cabeçalho -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Luanacyberdef&label=Profile%20views&color=00FFFF&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Luanacyberdef&label=Profile%20views&color=blue&style=flat" alt="P" />
   <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="28px" width="28px">
 </p>
 
@@ -10,9 +10,8 @@
   
   <p> Tecnóloga em Defesa Cibernética • Segurança Defensiva • Aprendizado contínuo </p>
   
- <!-- <a href="https://github.com/Luanainfosec"> <img src="https://img.shields.io/github/followers/Luanainfosec?style=social" /> </a> -->
- <a href="https://tryhackme.com/p/Luanacyberdef"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe badge"/> </a>
-  <a href="https://www.linkedin.com/in/luanacyberdef/"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white" />
+ <a href="https://tryhackme.com/p/Luanacyberdef"> <img src="https://img.shields.io/badge/Perfil%20no%20TryHackMe-212C42?logo=TryHackMe" alt="TryHackMe badge"/> </a>
+  <a href="https://www.linkedin.com/in/luanacyberdef/"> <img src="https://img.shields.io/badge/Perfil%20no%20Linkedin-blue?logo=LinkedIn" />
   </a>
   <br>
 </div>
